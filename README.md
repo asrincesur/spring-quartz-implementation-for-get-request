@@ -1,0 +1,1 @@
+# spring-quartz-implementation-for-get-request
